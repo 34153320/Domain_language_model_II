@@ -1,4 +1,7 @@
 #!/usr/bin/env python
+"""
+    Written by Pengfei Sun. The model is borrowed from openai/gpt2
+"""
 import os
 import json
 import fire
