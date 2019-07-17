@@ -1,6 +1,6 @@
 #!/usr/bin/env python
 """
-    Written by Pengfei Sun. The model is borrowed from openai/gpt2
+    Written by Pengfei Sun. The model is borrowed and modified from openai/gpt2
 """
 import os
 import json
